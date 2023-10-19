@@ -1,0 +1,12 @@
+npm i express mongoose jsonwebtoken bcryptjs
+npm i nodemon -D
+
+npm run dev
+
+//INICIAR MONGO DB
+mongod
+
+show dbs
+use simplejwt
+show collections
+db.users.find()

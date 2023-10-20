@@ -5,6 +5,7 @@ npm run dev
 
 //INICIAR MONGO DB
 mongod
+mongosh
 
 show dbs
 use simplejwt
@@ -12,4 +13,4 @@ show collections
 db.users.find()
 
  JSON Web Tokens, Introducción Práctica con Nodejs, Mongodb y async/await 
-57:35
+terminado
